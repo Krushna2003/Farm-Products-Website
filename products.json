@@ -1,0 +1,74 @@
+[
+  { 
+    "id": 1, 
+    "name": "Fresh Tomatoes", 
+    "price": 3.5,
+    "image": "https://ww2.kqed.org/app/uploads/sites/24/2012/10/IMG_5485.jpg"
+  },
+  { 
+    "id": 2, 
+    "name": "Organic Potatoes", 
+    "price": 2.0,
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.7qoa4PsF3xfzVrBPSbvTGwHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  { 
+    "id": 3, 
+    "name": "Farm Eggs", 
+    "price": 5.0,
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.DnsjTxUHDD4UCj14d49fCwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  { 
+    "id": 4, 
+    "name": "Fresh Carrots", 
+    "price": 2.8,
+    "image": "https://images.pexels.com/photos/1497705/pexels-photo-1497705.jpeg?cs=srgb&dl=carrots-fresh-carrots-1497705.jpg&fm=jpg"
+  },
+  { 
+    "id": 5, 
+    "name": "Green Cabbage", 
+    "price": 1.9,
+    "image": "https://i2.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/10/green-cabbages.jpg?resize=1600%2C1000"
+  },
+  { 
+    "id": 6, 
+    "name": "Organic Milk", 
+    "price": 4.2,
+    "image": "https://img.freepik.com/premium-photo/organic-milk_770123-6477.jpg"
+  },
+  { 
+    "id": 7, 
+    "name": "Fresh Strawberries", 
+    "price": 6.5,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.M1TBPQ2WL5mprCrHKKluhQHaEz?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  { 
+    "id": 8, 
+    "name": "Farm Honey", 
+    "price": 8.0,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.FaO1rhLM-Oz_i2DtlSawywHaEo?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  { 
+    "id": 9, 
+    "name": "Fresh Spinach", 
+    "price": 2.3,
+    "image": "https://graciouslynourished.com/wp-content/uploads/2022/05/fresh-spinach.jpg"
+  },
+  { 
+    "id": 10, 
+    "name": "Organic Bananas", 
+    "price": 3.0,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.rn7N7kPUeBnFoJ2AEn9K1AHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  { 
+    "id": 11, 
+    "name": "Raw Peanuts", 
+    "price": 2.7,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.4DGBJrdeI-tB_6I77xJf6gHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  { 
+    "id": 12, 
+    "name": "Fresh Apples", 
+    "price": 4.0,
+    "image": "https://3.imimg.com/data3/LK/SF/MY-9643322/fresh-apple-1000x1000.jpg"
+  }
+]
